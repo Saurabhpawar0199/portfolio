@@ -16,7 +16,7 @@ export const profile = {
 };
 
 export const contact = {
-  email: "your.saurabhpawar0199@gmail.com", // TODO: your real email
+  email: "saurabhpawar0199@gmail.com", // TODO: your real email
   github: "https://github.com/Saurabhpawar0199",
   leetcode: "https://leetcode.com/u/tRrvhmKCCf",
   linkedin: "", // TODO: paste your LinkedIn URL, or leave empty to hide it
