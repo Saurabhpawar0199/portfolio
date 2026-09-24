@@ -10,14 +10,15 @@ export const profile = {
   location: "Maharashtra, India",
   status: "Open to fresher roles",
   openTo: ["Java backend developer", "Full stack developer"],
-  learningNext: ["Python", "PyTorch", "MLOps"],
+  learningNext: ["Spring Security", "Spring AI", "Python"],
   intro:
     "I'm a 2025 Computer Engineering graduate. During a six-month Java Full Stack internship at Test Yantra I built banking and job portal applications. I'm looking for my first backend role and working toward AI/ML engineering.",
 };
 
 export const contact = {
-  email: "your.email@example.com", // TODO: your real email
+  email: "your.saurabhpawar0199@gmail.com", // TODO: your real email
   github: "https://github.com/Saurabhpawar0199",
+  leetcode: "https://leetcode.com/u/tRrvhmKCCf",
   linkedin: "", // TODO: paste your LinkedIn URL, or leave empty to hide it
   resumeUrl: "/resume.pdf", // TODO: put your PDF at public/resume.pdf (or set to "" to hide the button)
 };
@@ -29,18 +30,7 @@ export const experience = [
     duration: "6 months",
     summary:
       "Worked across the Java full stack and delivered banking and job portal applications.",
-  },
-  {
-    company: "TATA Technologies",
-    role: "Technical Intern",
-    summary:
-      "Technical internship, completed with related certifications." // TODO: replace with one line about what you worked on,
-  },
-  {
-    company: "BSNL",
-    role: "Documentation Intern",
-    summary: "Worked on standard operating procedure (SOP) documentation.",
-  },
+  }
 ];
 
 // TODO: replace each `repo` with the link to that project's own GitHub repository.
