@@ -5,7 +5,7 @@
 
 export const profile = {
   name: "Saurabh",
-  role: "Java backend developer",
+  role: "Java full stack developer",
   education: "B.Tech, Computer Engineering (2025)",
   location: "Maharashtra, India",
   status: "Open to fresher roles",
